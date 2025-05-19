@@ -1,4 +1,4 @@
-<p><strong>Effective Date: 10 May 2025</strong></p>
+<p><strong>Effective Date: 19 May 2025</strong></p>
 <p>Smart Lite Technologies ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile game, Sad Cat: Make Your Cat Happy (the "Game"). Please read this privacy policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE GAME.</p>
 <p>We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Effective Date" of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates.</p>
 <p><strong>1. INFORMATION WE COLLECT</strong></p>
